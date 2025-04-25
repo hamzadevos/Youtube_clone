@@ -49,21 +49,6 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA_OhpsIRHHRTlJGwMHNaq0Y54mSKvRzpo',
-    appId: '1:130348119869:android:c74bf68dfdd64ae4e2b754',
-    messagingSenderId: '130348119869',
-    projectId: 'youtub12z',
-    storageBucket: 'youtub12z.firebasestorage.app',
-  );
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDzwMbiB0FD2FeRPRgnkIxxoGBdR9o-DEQ',
-    appId: '1:130348119869:ios:62f9e0d46fbbd8a2e2b754',
-    messagingSenderId: '130348119869',
-    projectId: 'youtub12z',
-    storageBucket: 'youtub12z.firebasestorage.app',
-    iosBundleId: 'com.example.youtube',
-  );
 
 }
