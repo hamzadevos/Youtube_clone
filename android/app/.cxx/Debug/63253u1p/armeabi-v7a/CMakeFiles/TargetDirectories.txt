@@ -1,0 +1,2 @@
+E:/Android/youtube/android/app/.cxx/Debug/63253u1p/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Android/youtube/android/app/.cxx/Debug/63253u1p/armeabi-v7a/CMakeFiles/rebuild_cache.dir

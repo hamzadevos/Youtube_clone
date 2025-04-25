@@ -1,0 +1,58 @@
+{
+  "All": {
+    "videos": [
+      {
+        "videoUrl": "",
+        "title": "How to clone YouTube App",
+        "channelName": "Flutter Dev",
+        "views": "1.5M",
+        "uploadTime": "11 hours ago"
+      },
+      {
+        "videoUrl": "",
+        "title": "Understanding Flutter Widgets",
+        "channelName": "Tech Channel",
+        "views": "500K",
+        "uploadTime": "1 day ago"
+      },
+      {
+        "videoUrl": "",
+        "title": "Understanding Flutter Widgets",
+        "channelName": "Tech Channel",
+        "views": "500K",
+        "uploadTime": "1 day ago"
+      },
+      {
+
+        "videoUrl": "",
+        "title": "Understanding Flutter Widgets",
+        "channelName": "Tech Channel",
+        "views": "500K",
+        "uploadTime": "1 day ago"
+      }
+    ],
+    "shorts": [
+      {
+        "videoUrl": "",
+        "title": "Quick Flutter Tip",
+        "details": "Learn Flutter in 60 seconds!"
+      },
+      {
+        "videoUrl": "",
+        "title": "Stylish UI in Flutter",
+        "details": "Create beautiful UIs quickly!"
+      },
+      {
+        "videoUrl": "",
+        "title": "Stylish UI in Flutter",
+        "details": "Create beautiful UIs quickly!"
+      },
+      {
+        "videoUrl": "",
+        "title": "Stylish UI in Flutter",
+        "details": "Create beautiful UIs quickly!"
+      }
+    ]
+  }
+
+}
